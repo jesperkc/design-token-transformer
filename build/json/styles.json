@@ -299,5 +299,17 @@
   "EffectLayerBlurType": "layerBlur",
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
-  "EffectBackgroundBlurRadius": 4
+  "EffectBackgroundBlurRadius": 4,
+  "H1FontSize": 64,
+  "H1TextDecoration": "none",
+  "H1FontFamily": "Roboto",
+  "H1FontWeight": 900,
+  "H1FontStyle": "normal",
+  "H1FontStretch": "normal",
+  "H1FontStyleOld": "Black",
+  "H1LetterSpacing": 2,
+  "H1LineHeight": 160,
+  "H1ParagraphIndent": 0,
+  "H1ParagraphSpacing": 8,
+  "H1TextCase": "uppercase"
 }

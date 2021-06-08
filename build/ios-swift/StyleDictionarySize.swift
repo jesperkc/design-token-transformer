@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:40:52 GMT
+// Generated on Tue, 08 Jun 2021 11:48:54 GMT
 //
 
 import UIKit
@@ -116,6 +116,12 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let fontSize = 64
+    public static let fontWeight = 900
+    public static let letterSpacing = 2
+    public static let lineHeight = 160
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 8
     public static let dissolveDuration = 0.45
     public static let dissolveEasingFunctionX1 = 0.6968395709991455
     public static let dissolveEasingFunctionX2 = 0.06683959811925888

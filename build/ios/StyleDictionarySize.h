@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:40:52 GMT
+// Generated on Tue, 08 Jun 2021 11:48:54 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -178,3 +178,9 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const H1FontSize;
+extern float const H1FontWeight;
+extern float const H1LetterSpacing;
+extern float const H1LineHeight;
+extern float const H1ParagraphIndent;
+extern float const H1ParagraphSpacing;
