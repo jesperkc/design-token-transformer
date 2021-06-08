@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:48:54 GMT
+// Generated on Tue, 08 Jun 2021 11:56:08 GMT
 //
 
 
@@ -235,18 +235,6 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
-    public static let h1FontFamily = Roboto
-    public static let h1FontSize = 64
-    public static let h1FontStretch = normal
-    public static let h1FontStyle = normal
-    public static let h1FontStyleOld = Black
-    public static let h1FontWeight = 900
-    public static let h1LetterSpacing = 2
-    public static let h1LineHeight = 160
-    public static let h1ParagraphIndent = 0
-    public static let h1ParagraphSpacing = 8
-    public static let h1TextCase = uppercase
-    public static let h1TextDecoration = none
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -323,4 +311,40 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
+    public static let typoBodyFontFamily = Roboto
+    public static let typoBodyFontSize = 18
+    public static let typoBodyFontStretch = normal
+    public static let typoBodyFontStyle = normal
+    public static let typoBodyFontStyleOld = Regular
+    public static let typoBodyFontWeight = 400
+    public static let typoBodyLetterSpacing = 0
+    public static let typoBodyLineHeight = normal
+    public static let typoBodyParagraphIndent = 0
+    public static let typoBodyParagraphSpacing = 20
+    public static let typoBodyTextCase = none
+    public static let typoBodyTextDecoration = none
+    public static let typoH1FontFamily = Roboto
+    public static let typoH1FontSize = 64
+    public static let typoH1FontStretch = normal
+    public static let typoH1FontStyle = normal
+    public static let typoH1FontStyleOld = Black
+    public static let typoH1FontWeight = 900
+    public static let typoH1LetterSpacing = 2
+    public static let typoH1LineHeight = 160
+    public static let typoH1ParagraphIndent = 0
+    public static let typoH1ParagraphSpacing = 8
+    public static let typoH1TextCase = uppercase
+    public static let typoH1TextDecoration = none
+    public static let typoH2FontFamily = Roboto
+    public static let typoH2FontSize = 40
+    public static let typoH2FontStretch = normal
+    public static let typoH2FontStyle = normal
+    public static let typoH2FontStyleOld = Black
+    public static let typoH2FontWeight = 900
+    public static let typoH2LetterSpacing = 2
+    public static let typoH2LineHeight = normal
+    public static let typoH2ParagraphIndent = 0
+    public static let typoH2ParagraphSpacing = 20
+    public static let typoH2TextCase = uppercase
+    public static let typoH2TextDecoration = none
 }

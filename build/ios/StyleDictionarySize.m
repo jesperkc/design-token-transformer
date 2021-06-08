@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:48:54 GMT
+// Generated on Tue, 08 Jun 2021 11:56:08 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,9 +179,19 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
-float const H1FontSize = 64;
-float const H1FontWeight = 900;
-float const H1LetterSpacing = 2;
-float const H1LineHeight = 160;
-float const H1ParagraphIndent = 0;
-float const H1ParagraphSpacing = 8;
+float const TypoH1FontSize = 64;
+float const TypoH1FontWeight = 900;
+float const TypoH1LetterSpacing = 2;
+float const TypoH1LineHeight = 160;
+float const TypoH1ParagraphIndent = 0;
+float const TypoH1ParagraphSpacing = 8;
+float const TypoH2FontSize = 40;
+float const TypoH2FontWeight = 900;
+float const TypoH2LetterSpacing = 2;
+float const TypoH2ParagraphIndent = 0;
+float const TypoH2ParagraphSpacing = 20;
+float const TypoBodyFontSize = 18;
+float const TypoBodyFontWeight = 400;
+float const TypoBodyLetterSpacing = 0;
+float const TypoBodyParagraphIndent = 0;
+float const TypoBodyParagraphSpacing = 20;
