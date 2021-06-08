@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:56:08 GMT
+// Generated on Tue, 08 Jun 2021 13:44:09 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -190,8 +190,8 @@ float const TypoH2FontWeight = 900;
 float const TypoH2LetterSpacing = 2;
 float const TypoH2ParagraphIndent = 0;
 float const TypoH2ParagraphSpacing = 20;
-float const TypoBodyFontSize = 18;
-float const TypoBodyFontWeight = 400;
-float const TypoBodyLetterSpacing = 0;
-float const TypoBodyParagraphIndent = 0;
-float const TypoBodyParagraphSpacing = 20;
+float const TypoBodyTextFontSize = 18;
+float const TypoBodyTextFontWeight = 400;
+float const TypoBodyTextLetterSpacing = 0;
+float const TypoBodyTextParagraphIndent = 0;
+float const TypoBodyTextParagraphSpacing = 20;

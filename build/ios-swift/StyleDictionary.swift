@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:56:08 GMT
+// Generated on Tue, 08 Jun 2021 13:44:09 GMT
 //
 
 
@@ -311,18 +311,18 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
-    public static let typoBodyFontFamily = Roboto
-    public static let typoBodyFontSize = 18
-    public static let typoBodyFontStretch = normal
-    public static let typoBodyFontStyle = normal
-    public static let typoBodyFontStyleOld = Regular
-    public static let typoBodyFontWeight = 400
-    public static let typoBodyLetterSpacing = 0
-    public static let typoBodyLineHeight = normal
-    public static let typoBodyParagraphIndent = 0
-    public static let typoBodyParagraphSpacing = 20
-    public static let typoBodyTextCase = none
-    public static let typoBodyTextDecoration = none
+    public static let typoBodyTextFontFamily = Roboto
+    public static let typoBodyTextFontSize = 18
+    public static let typoBodyTextFontStretch = normal
+    public static let typoBodyTextFontStyle = normal
+    public static let typoBodyTextFontStyleOld = Regular
+    public static let typoBodyTextFontWeight = 400
+    public static let typoBodyTextLetterSpacing = 0
+    public static let typoBodyTextLineHeight = normal
+    public static let typoBodyTextParagraphIndent = 0
+    public static let typoBodyTextParagraphSpacing = 20
+    public static let typoBodyTextTextCase = none
+    public static let typoBodyTextTextDecoration = none
     public static let typoH1FontFamily = Roboto
     public static let typoH1FontSize = 64
     public static let typoH1FontStretch = normal

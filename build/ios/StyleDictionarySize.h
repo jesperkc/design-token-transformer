@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:56:08 GMT
+// Generated on Tue, 08 Jun 2021 13:44:09 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -189,8 +189,8 @@ extern float const TypoH2FontWeight;
 extern float const TypoH2LetterSpacing;
 extern float const TypoH2ParagraphIndent;
 extern float const TypoH2ParagraphSpacing;
-extern float const TypoBodyFontSize;
-extern float const TypoBodyFontWeight;
-extern float const TypoBodyLetterSpacing;
-extern float const TypoBodyParagraphIndent;
-extern float const TypoBodyParagraphSpacing;
+extern float const TypoBodyTextFontSize;
+extern float const TypoBodyTextFontWeight;
+extern float const TypoBodyTextLetterSpacing;
+extern float const TypoBodyTextParagraphIndent;
+extern float const TypoBodyTextParagraphSpacing;
