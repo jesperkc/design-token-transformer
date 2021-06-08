@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Tue, 08 Jun 2021 09:48:58 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -34,7 +34,23 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+ButtonBorderGradientStops0Color,
+ButtonBorderGradientStops1Color,
+TextInputBorderStops0Color,
+TextInputBorderStops1Color,
+BorderTopAndBottom0Color,
+BorderTopAndBottom1Color,
+BorderTopColor,
+DividerBottomColor,
+ButtonSegmentLeft0Color,
+ButtonSegmentLeft1Color,
+ButtonSegmentLeft2Color,
+ButtonSegmentLeft3Color,
+ButtonSegmentMiddle0Color,
+ButtonSegmentMiddle1Color,
+ButtonSegmentMiddle2Color,
+ButtonSegmentMiddle3Color
 };
 
 @interface StyleDictionaryColor : NSObject
