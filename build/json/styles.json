@@ -6,12 +6,6 @@
   "SizesFrame": 32,
   "SizesRect": 32,
   "SizesShapeInComponent": 32,
-  "SizesPlainToken": 200,
-  "SizesTokenInFrame": 200,
-  "SizesTokenInGroup": 200,
-  "SizesInVariant60": 60,
-  "SizesInVariant90": 90,
-  "SizesInVariant120": 120,
   "Spacing10Top": 10,
   "Spacing10Right": 10,
   "Spacing10Bottom": 10,
@@ -305,8 +299,5 @@
   "EffectLayerBlurType": "layerBlur",
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
-  "EffectBackgroundBlurRadius": 4,
-  "BreakpointsLg": 1280,
-  "BreakpointsSm": 768,
-  "BreakpointsMd": 1024
+  "EffectBackgroundBlurRadius": 4
 }

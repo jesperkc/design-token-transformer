@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:34:36 GMT
+// Generated on Tue, 08 Jun 2021 11:40:52 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -17,12 +17,6 @@ float const Sizes80 = 80;
 float const SizesFrame = 32;
 float const SizesRect = 32;
 float const SizesShapeInComponent = 32;
-float const SizesPlainToken = 200;
-float const SizesTokenInFrame = 200;
-float const SizesTokenInGroup = 200;
-float const SizesInVariant60 = 60;
-float const SizesInVariant90 = 90;
-float const SizesInVariant120 = 120;
 float const Spacing10Top = 10;
 float const Spacing10Right = 10;
 float const Spacing10Bottom = 10;
@@ -185,6 +179,3 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
-float const BreakpointsLg = 1280;
-float const BreakpointsSm = 768;
-float const BreakpointsMd = 1024;

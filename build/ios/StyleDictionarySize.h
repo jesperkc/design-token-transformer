@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 11:34:36 GMT
+// Generated on Tue, 08 Jun 2021 11:40:52 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -16,12 +16,6 @@ extern float const Sizes80;
 extern float const SizesFrame;
 extern float const SizesRect;
 extern float const SizesShapeInComponent;
-extern float const SizesPlainToken;
-extern float const SizesTokenInFrame;
-extern float const SizesTokenInGroup;
-extern float const SizesInVariant60;
-extern float const SizesInVariant90;
-extern float const SizesInVariant120;
 extern float const Spacing10Top;
 extern float const Spacing10Right;
 extern float const Spacing10Bottom;
@@ -184,6 +178,3 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
-extern float const BreakpointsLg;
-extern float const BreakpointsSm;
-extern float const BreakpointsMd;
