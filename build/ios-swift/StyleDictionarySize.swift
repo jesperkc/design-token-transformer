@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 13:44:09 GMT
+// Generated on Wed, 09 Jun 2021 09:26:22 GMT
 //
 
 import UIKit
@@ -183,15 +183,15 @@ public enum StyleDictionarySize {
     public static let bodyTextLetterSpacing = 0
     public static let bodyTextParagraphIndent = 0
     public static let bodyTextParagraphSpacing = 20
-    public static let h1FontSize = 64
-    public static let h1FontWeight = 900
-    public static let h1LetterSpacing = 2
-    public static let h1LineHeight = 160
-    public static let h1ParagraphIndent = 0
-    public static let h1ParagraphSpacing = 8
     public static let h2FontSize = 40
     public static let h2FontWeight = 900
     public static let h2LetterSpacing = 2
     public static let h2ParagraphIndent = 0
     public static let h2ParagraphSpacing = 20
+    public static let header1FontSize = 64
+    public static let header1FontWeight = 900
+    public static let header1LetterSpacing = 2
+    public static let header1LineHeight = 160
+    public static let header1ParagraphIndent = 0
+    public static let header1ParagraphSpacing = 8
 }

@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 13:44:09 GMT
+// Generated on Wed, 09 Jun 2021 09:26:22 GMT
 //
 
 
@@ -323,18 +323,6 @@ public class StyleDictionary {
     public static let typoBodyTextParagraphSpacing = 20
     public static let typoBodyTextTextCase = none
     public static let typoBodyTextTextDecoration = none
-    public static let typoH1FontFamily = Roboto
-    public static let typoH1FontSize = 64
-    public static let typoH1FontStretch = normal
-    public static let typoH1FontStyle = normal
-    public static let typoH1FontStyleOld = Black
-    public static let typoH1FontWeight = 900
-    public static let typoH1LetterSpacing = 2
-    public static let typoH1LineHeight = 160
-    public static let typoH1ParagraphIndent = 0
-    public static let typoH1ParagraphSpacing = 8
-    public static let typoH1TextCase = uppercase
-    public static let typoH1TextDecoration = none
     public static let typoH2FontFamily = Roboto
     public static let typoH2FontSize = 40
     public static let typoH2FontStretch = normal
@@ -347,4 +335,16 @@ public class StyleDictionary {
     public static let typoH2ParagraphSpacing = 20
     public static let typoH2TextCase = uppercase
     public static let typoH2TextDecoration = none
+    public static let typoHeader1FontFamily = Roboto
+    public static let typoHeader1FontSize = 64
+    public static let typoHeader1FontStretch = normal
+    public static let typoHeader1FontStyle = normal
+    public static let typoHeader1FontStyleOld = Black
+    public static let typoHeader1FontWeight = 900
+    public static let typoHeader1LetterSpacing = 2
+    public static let typoHeader1LineHeight = 160
+    public static let typoHeader1ParagraphIndent = 0
+    public static let typoHeader1ParagraphSpacing = 8
+    public static let typoHeader1TextCase = uppercase
+    public static let typoHeader1TextDecoration = none
 }
