@@ -1,6 +1,6 @@
 {
   "name": "@jesperkc/design-tokens",
-  "version": "0.5.1",
+  "version": "0.1.6",
   "description": "Base repo to transform json design tokens from the figma design token plugin via amazon style directory.",
   "main": "index.js",
   "dependencies": {
