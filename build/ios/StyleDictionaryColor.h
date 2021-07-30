@@ -2,39 +2,18 @@
 //
 // StyleDictionaryColor.h
 //
+
 // Do not edit directly
-// Generated on Wed, 09 Jun 2021 09:26:22 GMT
-//
+// Generated on Fri, 30 Jul 2021 12:26:44 GMT
+
 
 #import <UIKit/UIKit.h>
 
-
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-BordersUnsupportedMultipleBordersStroke,
-BordersSingleStroke,
-BordersSingleStyleStroke,
-BordersDashedOutsideStroke,
-ColorsMultipleFills0,
-ColorsMultipleFills1,
-ColorsSingleBlue,
-ColorsSpecialCharacters😅,
-ColorsSpecialCharactersAnderung,
-GradientMultiple0Stops0Color,
-GradientMultiple0Stops1Color,
-GradientMultiple1Stops0Color,
-GradientMultiple1Stops1Color,
-GradientMultiple2Stops0Color,
-GradientMultiple2Stops1Color,
-GradientMultiple3Stops0Color,
-GradientMultiple3Stops1Color,
-GradientSingleWithMultipleColorStopsStops0Color,
-GradientSingleWithMultipleColorStopsStops1Color,
-GradientSingleWithMultipleColorStopsStops2Color,
-GradientSingleWithMultipleColorStopsStops3Color,
-EffectDropShadowSingleColor,
-EffectInnerShadowMultiple0Color,
-EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+ColorColorsGreen,
+ColorColorsBlue,
+ColorColorsPurple,
+ColorColorsRed
 };
 
 @interface StyleDictionaryColor : NSObject
